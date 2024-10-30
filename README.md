@@ -1,1 +1,1 @@
-# Snow-Den
+# This repository is for second taskphase of Cryptonite.
