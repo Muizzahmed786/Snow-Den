@@ -106,3 +106,9 @@ Therfore, w0 should be equal to 1813, then only it will become zero.
 1813 in hexadecimal =  00000715.
 
 Flag: - `picoCTF{00000715}`
+
+## References
+1.) https://www.cs.princeton.edu/courses/archive/spr19/cos217/lectures/15_AssemblyFunctions.pdf
+2.) https://modexp.wordpress.com/2018/10/30/arm64-assembly/#arithmetic
+##
+#
