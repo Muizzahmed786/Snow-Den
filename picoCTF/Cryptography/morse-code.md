@@ -4,6 +4,7 @@ we are given a hint that we have to use audacity to decode the audio.
 
 Upon the uploading the file on Audacity I got this:-
 ![Screenshot 2024-12-20 220613](https://github.com/user-attachments/assets/18e39502-5237-48a9-b093-590f3be2aa15)
+As we can see in the image the hiphens and full stops are present.
 
 morse text I recieved:- `.-- .... ....- --...  .... ....- --... ....  ----. ----- -..  .-- .-- ----- ..- ----. .... --...`
 decoded message:- `WH47H47H90DWW0U9H7`.
