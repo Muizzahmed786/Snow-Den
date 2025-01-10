@@ -8,7 +8,7 @@ Which is the case here. Therefore to find `m` might have to find the value of cu
 And then check if `m**3` is equal to `c` or not. initially I tried finding the value of `m` using online tools, but I was not getting the correct result. This was because
 after getting the value of `m`, I converted it to hexadecimal and then ASCII to see if the message is a readable or not. I got some garbage ASCII text.
 
-Then, It might be possible that `m**e = c + i*n`, where is a constant. To find this the program for it is given below:-
+Then, It might be possible that `m**e = c + i*n`, where c is a constant. To find this the program for it is given below:-
 ```bash
 from Crypto.Util.number import long_to_bytes
 
